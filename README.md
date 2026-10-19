@@ -225,4 +225,4 @@ Xonotic is released under the GPL license, which means this is the full version 
 Ready to join the battle? Download Xonotic for free today and experience the thrill of the fight!
 
 ---
-**Last updated:** 2026-10-18 22:45:08 UTC
+**Last updated:** 2026-10-19 00:47:53 UTC
